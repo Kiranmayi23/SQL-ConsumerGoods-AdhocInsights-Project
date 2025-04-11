@@ -1,0 +1,1 @@
+# SQL-ConsumerGoods-AdhocInsights-Project
